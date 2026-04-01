@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Kartik 👋
 
-<!--
-**Kartik-173/Kartik-173** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer (1 YOE)
+💻 React | Node.js | AWS | DevOps | AI Tools
 
-Here are some ideas to get you started:
+## 🔧 What I Work With
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Frontend: React.js, Redux, Material UI
+* Backend: Node.js, Express.js
+* Cloud: AWS (S3, Cognito, CloudFront, Route53)
+* DevOps: Docker, CI/CD, n8n automation
+* Tools: SonarQube, OWASP ZAP, Semgrep
+
+## 🔥 Projects
+
+### Codelens (Developer Productivity Platform)
+
+* Dashboard for code quality, security, and performance
+* Integrated multiple DevOps and security tools
+* Built using React, Node.js, AWS
+
+(ADD LINK HERE)
+
+[---](https://codelens.cloudsanalytics.ai/)
+https://ai-monitor.cloudsanalytics.ai/
+
+📫 Reach me: [yadavkartik173@gmail.com](mailto:yadavkartik173@gmail.com)
